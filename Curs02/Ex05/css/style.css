@@ -1,0 +1,121 @@
+.line {
+  display: flex;
+  justify-content: space-between;
+  margin: 16px 0;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+  border: 1px solid #000;
+}
+
+.box-01 {
+  border-width: 1px;
+}
+
+.box-02 {
+  border-width: 2px;
+}
+
+.box-03 {
+  border-width: 3px;
+}
+
+.box-04 {
+  border-width: 4px;
+}
+
+.box-05 {
+  border-width: 5px;
+}
+
+.box-06 {
+  border-width: 6px;
+}
+
+.box-07 {
+  border-width: 7px;
+}
+
+.box-08 {
+  border-width: 8px;
+}
+
+.box-09 {
+  border-width: 9px;
+}
+
+.box-1:nth-child(odd) {
+  border-style: dotted;
+}
+
+.box-1:nth-child(even) {
+  background-color: gray;
+}
+
+.box-2:nth-child(odd) {
+  border-style: dotted;
+}
+
+.box-2:nth-child(even) {
+  background-color: gray;
+}
+
+.box-3:nth-child(odd) {
+  border-style: dotted;
+}
+
+.box-3:nth-child(even) {
+  background-color: gray;
+}
+
+.box-4:nth-child(odd) {
+  border-style: dotted;
+}
+
+.box-4:nth-child(even) {
+  background-color: gray;
+}
+
+.box-5:nth-child(odd) {
+  border-style: dotted;
+}
+
+.box-5:nth-child(even) {
+  background-color: gray;
+}
+
+.box-6:nth-child(odd) {
+  border-style: dotted;
+}
+
+.box-6:nth-child(even) {
+  background-color: gray;
+}
+
+.box-7:nth-child(odd) {
+  border-style: dotted;
+}
+
+.box-7:nth-child(even) {
+  background-color: gray;
+}
+
+.box-8:nth-child(odd) {
+  border-style: dotted;
+}
+
+.box-8:nth-child(even) {
+  background-color: gray;
+}
+
+.box-9:nth-child(odd) {
+  border-style: dotted;
+}
+
+.box-9:nth-child(even) {
+  background-color: gray;
+}
+
+/*# sourceMappingURL=style.css.map */
